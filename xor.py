@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     m    = hex2str('89E33F8C4F135AFE654915596BB1B305C768')
 
-    k    = 'EJ'
+    k    = 'EJ'  # <-- Chipher Key 
     # k ... 0100 01010 10 01010
 
     # m & k XOR Encrypt
